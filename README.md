@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="400" />
 </div>  
   
 
@@ -53,3 +53,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMRicardas&hide_border=true&layout=compact" align="center" /></div>
 <br />
+
+## Fancy a joke?
+<div align="center">
+<img src="https://readme-jokes.vercel.app/api?bgColor=%23fffefe&borderColor=%23909296&qColor=%232a73d5&aColor=%23434d58&textColor=%232a73d5&codeColor=%23e34c26" alt="Jokes Card" />
+</div>
